@@ -2,5 +2,7 @@
 
 clone the repo and open terminal
 > npm install
+
 > npm start
-this will start the project.
+
+this will start the project
